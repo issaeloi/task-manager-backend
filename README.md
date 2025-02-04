@@ -24,4 +24,4 @@ Follow these steps to get the backend up and running:
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/task-manager-backend.git
+git clone https://github.com/issaeloi/task-manager-backend.git
